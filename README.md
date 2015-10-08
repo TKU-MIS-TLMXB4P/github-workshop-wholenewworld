@@ -6,7 +6,7 @@
 班級:資管四B
 
 1. 說明 git clone, git pull, git checkout 差異。
-\Ngit clone
+#git clone
 複製別人Repository內的程式碼
 
 2. 說明 git commit, git push 差異。
