@@ -8,12 +8,12 @@
 
 第一小題 說明 git clone, git pull, git checkout 差異。
 
-* git clone - Clone a repository into a new directory
-* git pull  - Fetch from and merge with another repository or a local branch
-* git checkout  - Checkout a branch or paths to the working tree
+* git clone   從別人的repository中複製code
+* git pull  - 下載remote reposity的最新版本至自己的本機端，並將reposity分支版合併到本機
+* git checkout  - 查詢分支檔的路徑
 
 第二小題 說明 git commit, git push 差異。
 
-* git commit  - Record changes to the repository
-* git push    - Update remote refs along with associated objects
+* git commit  - 可當成儲存code的一個節點供未來回溯或查詢，相當於遊戲內的存檔。
+* git push    - 把自己目前本機的相關檔案，上傳到remote reposity
 
