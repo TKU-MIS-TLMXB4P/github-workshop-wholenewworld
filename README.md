@@ -4,11 +4,16 @@
 
 姓名:劉育碩
 班級:資管四B
+## Git 指令說明
 
-1. 說明 git clone, git pull, git checkout 差異。
-* git clone
-* 複製別人Repository內的程式碼
+第一小題 說明 git clone, git pull, git checkout 差異。
 
-2. 說明 git commit, git push 差異。
-* git commit
-* 記錄程式的節點，可供未來參考或回溯，像遊戲中的存檔。
+* git clone - Clone a repository into a new directory
+* git pull  - Fetch from and merge with another repository or a local branch
+* git checkout  - Checkout a branch or paths to the working tree
+
+第二小題 說明 git commit, git push 差異。
+
+* git commit  - Record changes to the repository
+* git push    - Update remote refs along with associated objects
+
