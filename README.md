@@ -7,8 +7,8 @@
 
 1. 說明 git clone, git pull, git checkout 差異。
 * git clone
-*複製別人Repository內的程式碼
+* 複製別人Repository內的程式碼
 
 2. 說明 git commit, git push 差異。
-*git commit
-*記錄程式的節點，可供未來參考或回溯，像遊戲中的存檔。
+* git commit
+* 記錄程式的節點，可供未來參考或回溯，像遊戲中的存檔。
